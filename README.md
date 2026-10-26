@@ -130,7 +130,7 @@ for (int i = 0; i < OVERSAMPLE_COUNT; i++) {        /* OVERSAMPLE_COUNT = 8 */
 ## 폴더 구조
 
 ```
-laser-curvature-scanner/
+Curvature_Measurement_System/
 ├── firmware/                     STM32CubeIDE 프로젝트 (STM32F411CEU6)
 │   ├── bd-stm.ioc                CubeMX 설정 (ADC1, TIM1 PWM, USART1 + RX 인터럽트)
 │   ├── Core/Src/main.c           스캔 상태머신, 거리 측정, Bow/곡률 연산, UART 프로토콜
