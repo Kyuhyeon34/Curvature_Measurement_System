@@ -21,19 +21,15 @@ STM32가 센서 데이터를 받아 곡률과 평탄도를 계산하고, Python 
 
 ## 시연 영상
 
+센서가 -30° ~ +30°로 회전하며 측정하는 동안 GUI에 단면 형상과 실시간 거리가 그려집니다.
+
+**시편 1 스캔 (12초)**
 
 https://github.com/user-attachments/assets/43e64944-a89c-4a3e-b22d-44a34d654b03
 
-
+**시편 2 스캔 (12초)**
 
 https://github.com/user-attachments/assets/580caeb2-05ce-497d-8905-10aa8a07bd2f
-
-
-| 시편 1 스캔 (12초) | 시편 2 스캔 (12초) |
-|---|---|
-| [<img src="docs/images/scan_demo_1.jpg">](docs/videos/scan_demo_1.mp4) | [<img src="docs/images/scan_demo_2.jpg">](docs/videos/scan_demo_2.mp4) |
-
-> 사진을 누르면 영상이 열립니다. 센서가 -30° ~ +30°로 회전하며 측정하는 동안 GUI에 단면 형상과 실시간 거리가 그려집니다.
 
 ## 개발 배경
 
