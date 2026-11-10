@@ -21,6 +21,14 @@ STM32가 센서 데이터를 받아 곡률과 평탄도를 계산하고, Python 
 
 ## 시연 영상
 
+
+https://github.com/user-attachments/assets/43e64944-a89c-4a3e-b22d-44a34d654b03
+
+
+
+https://github.com/user-attachments/assets/580caeb2-05ce-497d-8905-10aa8a07bd2f
+
+
 | 시편 1 스캔 (12초) | 시편 2 스캔 (12초) |
 |---|---|
 | [<img src="docs/images/scan_demo_1.jpg">](docs/videos/scan_demo_1.mp4) | [<img src="docs/images/scan_demo_2.jpg">](docs/videos/scan_demo_2.mp4) |
